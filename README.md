@@ -27,6 +27,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 1 | [Add Digits (#258)](https://leetcode.com/problems/add-digits/) | [Middle of the Linked List (#876)](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | Day 2 | [Reverse Linked List (#206)](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number (#268)](https://leetcode.com/problems/missing-number/) |
 | Day 3 | [Merge Two Sorted Lists (#21)](https://leetcode.com/problems/merge-two-sorted-lists/) | [Perfect Number (#507)](https://leetcode.com/problems/perfect-number/) |
+| Day 4 | [Palindrome Number (#9)](https://leetcode.com/problems/palindrome-number/) | [Linked List Cycle (#141)](https://leetcode.com/problems/linked-list-cycle/) |
 
 ---
 
