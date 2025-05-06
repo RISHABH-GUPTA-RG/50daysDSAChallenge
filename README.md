@@ -30,6 +30,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 4 | [Palindrome Number (#9)](https://leetcode.com/problems/palindrome-number/) | [Linked List Cycle (#141)](https://leetcode.com/problems/linked-list-cycle/) |
 | Day 5 | [Palindrome Linked List (#234)](https://leetcode.com/problems/palindrome-linked-list/) | [Valid Perfect Square (#367)](https://leetcode.com/problems/valid-perfect-square/) |
 | Day 6 | [Happy Number (#202)](https://leetcode.com/problems/happy-number/) | [Remove Linked List Elements (#203)](https://leetcode.com/problems/remove-linked-list-elements/) |
+| Day 7 | [Rotate List (#61)](https://leetcode.com/problems/rotate-list/description/) | [Plus One (#66)](https://leetcode.com/problems/plus-one/) |
 
 ---
 
