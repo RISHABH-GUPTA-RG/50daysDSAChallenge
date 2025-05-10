@@ -34,6 +34,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 8 | [Excel Sheet Column Number (#171)](https://leetcode.com/problems/excel-sheet-column-number/) | [Odd Even Linked List (#328)](https://leetcode.com/problems/odd-even-linked-list) |
 | Day 9 | [Nth Digit (#400)](https://leetcode.com/problems/nth-digit/description/) | [Swapping Nodes in a Linked List (#1721)](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) |
 | Day 10| [Bulb Switcher (#319)](https://leetcode.com/problems/bulb-switcher/description/) | [Delete the Middle Node of a Linked List (#2095)](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) |
+| Day 11 | [Remove Nth Node From End of List (#19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Factorial Trailing Zeores (#172)](https://leetcode.com/problems/factorial-trailing-zeroes/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
