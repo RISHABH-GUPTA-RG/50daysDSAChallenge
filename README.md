@@ -36,6 +36,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 10| [Bulb Switcher (#319)](https://leetcode.com/problems/bulb-switcher/description/) | [Delete the Middle Node of a Linked List (#2095)](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) |
 | Day 11 | [Remove Nth Node From End of List (#19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Factorial Trailing Zeores (#172)](https://leetcode.com/problems/factorial-trailing-zeroes/) |
 | Day 12 | [Count Odd Numbers in an Interval Range (#1523)](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Insert Greatest Common Divisors in Linked List (#2807)](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) |
+| Day 13 | [Remove Duplicates from Sorted List II (#82)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Sign of the Product of an Array (#1822)](https://leetcode.com/problems/sign-of-the-product-of-an-array) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
