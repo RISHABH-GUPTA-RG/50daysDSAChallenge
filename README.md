@@ -38,6 +38,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 12 | [Count Odd Numbers in an Interval Range (#1523)](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Insert Greatest Common Divisors in Linked List (#2807)](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) |
 | Day 13 | [Remove Duplicates from Sorted List II (#82)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Sign of the Product of an Array (#1822)](https://leetcode.com/problems/sign-of-the-product-of-an-array) |
 | Day 14 | [Reverse Integer (#7)](https://leetcode.com/problems/reverse-integer/) | [Partition List (#86)](https://leetcode.com/problems/partition-list/) |
+| Day 15 | [Add Two Numbers (#2)](https://leetcode.com/problems/add-two-numbers) | [Excel Sheet Column Title (#168)](https://leetcode.com/problems/excel-sheet-column-title) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
