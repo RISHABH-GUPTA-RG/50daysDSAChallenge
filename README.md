@@ -41,6 +41,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 15 | [Add Two Numbers (#2)](https://leetcode.com/problems/add-two-numbers) | [Excel Sheet Column Title (#168)](https://leetcode.com/problems/excel-sheet-column-title) |
 | Day 16 | [Delete Node in a Linked List (#237)](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Sum of Square Numbers (#633)](https://leetcode.com/problems/sum-of-square-numbers/) |
 | Day 17 | [Two Sum (#1)](https://leetcode.com/problems/two-sum/) | [Min Stack (#155)](https://leetcode.com/problems/min-stack/) |
+| Day 18 | [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) | [Implement Queue using Stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
