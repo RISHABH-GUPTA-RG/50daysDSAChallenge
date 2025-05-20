@@ -43,7 +43,8 @@ DayX_LeetCode_ProblemID.cpp
 | Day 17 | [Two Sum (#1)](https://leetcode.com/problems/two-sum/) | [Min Stack (#155)](https://leetcode.com/problems/min-stack/) |
 | Day 18 | [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) | [Implement Queue using Stack (#232)](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | Day 19 | [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/) | [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| Day 10 | [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Find Greatest Common Divisor of Array (#1979)](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
+| Day 20 | [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Find Greatest Common Divisor of Array (#1979)](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
+| Day 21 | [Pascal's Triangle II (#119)](https://leetcode.com/problems/pascals-triangle-ii) | [Valid Parenthesis String (#678)](https://leetcode.com/problems/valid-parenthesis-string/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
