@@ -45,6 +45,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 19 | [Valid Parentheses (#20)](https://leetcode.com/problems/valid-parentheses/) | [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | Day 20 | [Evaluate Reverse Polish Notation (#150)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Find Greatest Common Divisor of Array (#1979)](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
 | Day 21 | [Pascal's Triangle II (#119)](https://leetcode.com/problems/pascals-triangle-ii) | [Valid Parenthesis String (#678)](https://leetcode.com/problems/valid-parenthesis-string/) |
+| Day 22 | [Minimum Remove to Make Valid Parentheses (#1249)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Majority Element (#169)](https://leetcode.com/problems/majority-element) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
