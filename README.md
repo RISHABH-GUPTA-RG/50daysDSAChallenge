@@ -48,6 +48,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 22 | [Minimum Remove to Make Valid Parentheses (#1249)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Majority Element (#169)](https://leetcode.com/problems/majority-element) |
 | Day 23 | [Longest Valid Parentheses (#32)](https://leetcode.com/problems/longest-valid-parentheses) | [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/) |
 | Day 24 | [Basic Calculator (#224)](https://leetcode.com/problems/basic-calculator/) | [Move Zeroes (#283)](https://leetcode.com/problems/move-zeroes/) |
+| Day 25 | [Implement Stack using Queues (#225)](https://leetcode.com/problems/implement-stack-using-queues/) | [Rotate Array (#189)](https://leetcode.com/problems/rotate-array/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
