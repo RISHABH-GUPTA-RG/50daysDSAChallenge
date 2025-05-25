@@ -49,6 +49,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 23 | [Longest Valid Parentheses (#32)](https://leetcode.com/problems/longest-valid-parentheses) | [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/) |
 | Day 24 | [Basic Calculator (#224)](https://leetcode.com/problems/basic-calculator/) | [Move Zeroes (#283)](https://leetcode.com/problems/move-zeroes/) |
 | Day 25 | [Implement Stack using Queues (#225)](https://leetcode.com/problems/implement-stack-using-queues/) | [Rotate Array (#189)](https://leetcode.com/problems/rotate-array/) |
+| Day 26 | [Binary Tree Inorder Traversal (#94)](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
