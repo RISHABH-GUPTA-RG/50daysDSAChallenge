@@ -51,6 +51,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 25 | [Implement Stack using Queues (#225)](https://leetcode.com/problems/implement-stack-using-queues/) | [Rotate Array (#189)](https://leetcode.com/problems/rotate-array/) |
 | Day 26 | [Binary Tree Inorder Traversal (#94)](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | Day 27 | [Path Sum (#112)](https://leetcode.com/problems/path-sum/) | [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/) |
+| Day 28 | [Minimum Depth of Binary Tree (#111)](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Number of Subarrays With LCM Equal to K (#2470)](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
