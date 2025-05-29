@@ -53,6 +53,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 27 | [Path Sum (#112)](https://leetcode.com/problems/path-sum/) | [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/) |
 | Day 28 | [Minimum Depth of Binary Tree (#111)](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Number of Subarrays With LCM Equal to K (#2470)](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) |
 | Day 29 | [Sum of Left Leaves (#404)](https://leetcode.com/problems/sum-of-left-leaves/) | [Kth Largest Element in an Array (#215)](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| Day 30 | [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/) | [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
