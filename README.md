@@ -55,6 +55,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 29 | [Sum of Left Leaves (#404)](https://leetcode.com/problems/sum-of-left-leaves/) | [Kth Largest Element in an Array (#215)](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | Day 30 | [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/) | [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/) |
 | Day 31 | [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Flipping an Image (#832)](https://leetcode.com/problems/flipping-an-image/) |
+| Day 32 | [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
