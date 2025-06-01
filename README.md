@@ -56,6 +56,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 30 | [Diameter of Binary Tree (#543)](https://leetcode.com/problems/diameter-of-binary-tree/) | [Find the Duplicate Number (#287)](https://leetcode.com/problems/find-the-duplicate-number/) |
 | Day 31 | [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Flipping an Image (#832)](https://leetcode.com/problems/flipping-an-image/) |
 | Day 32 | [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) |
+| Day 33 | [Binary Tree Right Side View (#199)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_199.cpp) | [Lexicographically Smallest Palindrome (#2697)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_2697.cpp) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
