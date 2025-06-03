@@ -57,7 +57,8 @@ DayX_LeetCode_ProblemID.cpp
 | Day 31 | [Maximum Depth of Binary Tree (#104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Flipping an Image (#832)](https://leetcode.com/problems/flipping-an-image/) |
 | Day 32 | [Binary Tree Level Order Traversal (#102)](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Rotate Image (#48)](https://leetcode.com/problems/rotate-image/) |
 | Day 33 | [Binary Tree Right Side View (#199)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_199.cpp) | [Lexicographically Smallest Palindrome (#2697)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_2697.cpp) |
-| Day 35 | [Binary Tree Right Side View (#199)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_199.cpp) | [Lexicographically Smallest Palindrome (#2697)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_2697.cpp) |
+| Day 34 | [Binary Tree Right Side View (#199)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_199.cpp) | [Lexicographically Smallest Palindrome (#2697)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_2697.cpp) |
+| Day 35 | [Lowest Common Ancestor of a Binary Tree (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Number of Segments in a String (#434)](https://leetcode.com/problems/number-of-segments-in-a-string) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
