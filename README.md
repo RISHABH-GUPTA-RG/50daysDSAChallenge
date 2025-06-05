@@ -59,6 +59,8 @@ DayX_LeetCode_ProblemID.cpp
 | Day 33 | [Binary Tree Right Side View (#199)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_199.cpp) | [Lexicographically Smallest Palindrome (#2697)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_2697.cpp) |
 | Day 34 | [Binary Tree Right Side View (#199)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_199.cpp) | [Lexicographically Smallest Palindrome (#2697)](https://github.com/RISHABH-GUPTA-RG/50daysDSAChallenge/blob/main/DayX_LeetCode_2697.cpp) |
 | Day 35 | [Lowest Common Ancestor of a Binary Tree (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Number of Segments in a String (#434)](https://leetcode.com/problems/number-of-segments-in-a-string) |
+| Day 36 | [Sum Root to Leaf Numbers (#129)](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [Reverse Vowels of a String (#345)](https://leetcode.com/problems/reverse-vowels-of-a-string) |
+| Day 37 | [Binary Tree Zigzag Level Order Traversal (#103)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Find First Palindromic String in the Array (#2108)](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
