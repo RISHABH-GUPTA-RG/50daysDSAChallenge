@@ -61,6 +61,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 35 | [Lowest Common Ancestor of a Binary Tree (#236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Number of Segments in a String (#434)](https://leetcode.com/problems/number-of-segments-in-a-string) |
 | Day 36 | [Sum Root to Leaf Numbers (#129)](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [Reverse Vowels of a String (#345)](https://leetcode.com/problems/reverse-vowels-of-a-string) |
 | Day 37 | [Binary Tree Zigzag Level Order Traversal (#103)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Find First Palindromic String in the Array (#2108)](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) |
+| Day 38 | [Search in a Binary Search Tree (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
