@@ -62,6 +62,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 36 | [Sum Root to Leaf Numbers (#129)](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [Reverse Vowels of a String (#345)](https://leetcode.com/problems/reverse-vowels-of-a-string) |
 | Day 37 | [Binary Tree Zigzag Level Order Traversal (#103)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Find First Palindromic String in the Array (#2108)](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) |
 | Day 38 | [Search in a Binary Search Tree (#700)](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Valid Palindrome (#125)](https://leetcode.com/problems/valid-palindrome) |
+| Day 39 | [Insert into a Binary Search Tree (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Remove All Adjacent Duplicates In String (#1047)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
