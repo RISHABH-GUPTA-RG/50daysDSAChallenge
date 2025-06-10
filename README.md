@@ -65,6 +65,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 39 | [Insert into a Binary Search Tree (#701)](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Remove All Adjacent Duplicates In String (#1047)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) |
 | Day 40 | [Lowest Common Ancestor of a Binary Search Tree (#235)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Rotate String (#796)](https://leetcode.com/problems/rotate-string) |
 | Day 41 | [Delete Node in a BST (#450)](https://leetcode.com/problems/delete-node-in-a-bst) | [Longest Common Prefix (#14)](https://leetcode.com/problems/longest-common-prefix) |
+| Day 42 | [Validate Binary Search Tree (#98)](https://leetcode.com/problems/validate-binary-search-tree) | [Reverse Words in a String (#151)](https://leetcode.com/problems/reverse-words-in-a-string) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
