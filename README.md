@@ -69,6 +69,7 @@ DayX_LeetCode_ProblemID.cpp
 | Day 43 | [Kth Smallest Element in a BST (#230)](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Zigzag Conversion (#6)](https://leetcode.com/problems/zigzag-conversion) |
 | Day 44 | [Convert Sorted List to Binary Search Tree (#109)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [Maximum Number of Vowels in a Substring of Given Length (#1456)](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) |
 | Day 45 | [Find the Town Judge (#997)](https://leetcode.com/problems/find-the-town-judge) | [Greatest Common Divisor of Strings (#1071)](https://leetcode.com/problems/greatest-common-divisor-of-strings) |
+| Day 46 | [Find Center of Star Graph (#1791)](https://leetcode.com/problems/find-center-of-star-graph) | [Prime Number of Set Bits in Binary Representation (#762)](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) |
 
 <!-- | Day  | [ (#)]() | [ (#)]() | -->
 
